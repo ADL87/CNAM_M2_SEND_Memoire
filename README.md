@@ -1,4 +1,4 @@
-Mon mémoire ayant pour titre « L'Europe a-t-elle les moyens de construire sa souveraineté numérique ? Une analyse comparative des enjeux socio-économiques » récapitulant une partie des acquis du Master 2.
+Mon mémoire ayant pour titre « L'Europe a-t-elle les moyens de construire sa souveraineté numérique ? Une analyse comparative des enjeux socio-économiques » récapitule une partie des acquis du Master 2.
 <br>
 
 Le fichier <code>index.pdf</code> comporte l’intégralité de mon mémoire, l’analyse empirique se situe page 29.
