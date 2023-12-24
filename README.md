@@ -7,4 +7,4 @@ Le fichier <code>index.pdf</code> comporte l’intégralité de mon mémoire, l�
 <em>La méthodologie empirique se base sur une approche quantitative via la mobilisation de données institutionnelles de 2019 issues de l’Union européenne permettant ainsi la mise en œuvre de modèles économétriques, via l’application de régressions linéaires multiples, testant et confirmant les liens comportementaux et structurels relatifs à la souveraineté numérique. </em>
 
 <li> Deux scripts R <code>Analyse_comportementale_regression</code><code>DESI_regression</code>.</li>
-<li> Les données collectées sont disponibles dans le dossier nommé <code>database</code> du repository ( branche <code>main</code>). </li>
+<li> Les données collectées sont disponibles dans le dossier nommé <code>database</code> du repository (branche <code>main</code>). </li>
