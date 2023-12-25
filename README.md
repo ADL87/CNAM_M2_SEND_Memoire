@@ -8,3 +8,13 @@ Le fichier <code>index.pdf</code> comporte l’intégralité de mon mémoire, l�
 
 <li> Deux scripts R <code>Analyse_comportementale_regression</code><code>DESI_regression</code>.</li>
 <li> Les données collectées sont disponibles dans le dossier nommé <code>database</code> du repository (branche <code>main</code>). </li>
+<ul>
+  <li>Milk</li>
+  <li>
+    Cheese
+    <ul>
+      <li>Blue cheese</li>
+      <li>Feta</li>
+    </ul>
+  </li>
+</ul>
