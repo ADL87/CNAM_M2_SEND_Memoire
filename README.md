@@ -2,19 +2,8 @@ Mon mémoire ayant pour titre « L'Europe a-t-elle les moyens de construire sa s
 <br>
 
 Le fichier <code>index.pdf</code> comporte l’intégralité de mon mémoire, l’analyse empirique se situe page 29.
-<br>
-
 <em>La méthodologie empirique se base sur une approche quantitative via la mobilisation de données institutionnelles de 2019 issues de l’Union européenne permettant ainsi la mise en œuvre de modèles économétriques, via l’application de régressions linéaires multiples, testant et confirmant les liens comportementaux et structurels relatifs à la souveraineté numérique. </em>
 
-<li> Deux scripts R <code>Analyse_comportementale_regression</code><code>DESI_regression</code>.</li>
-<li> Les données collectées sont disponibles dans le dossier nommé <code>database</code> du repository (branche <code>main</code>). </li>
-<ul>
-  <li>Milk</li>
-  <li>
-    Cheese
-    <ul>
-      <li>Blue cheese</li>
-      <li>Feta</li>
-    </ul>
-  </li>
-</ul>
+Deux scripts R <code>Analyse_comportementale_regression</code><code>DESI_regression</code>.
+<em>Les données collectées sont disponibles dans le dossier nommé <code>database</code> du repository (branche <code>main</code>). </em>
+
